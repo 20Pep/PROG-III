@@ -1,3 +1,4 @@
-Link Tabla de Estados del Proyecto 
+Materia programación 3 UTN FRGP
 
-https://docs.google.com/spreadsheets/d/1mlUXOkloSItejj3BEUu4OsjKKLP7BPcMUIGR5SX7Rao/edit?usp=sharing
+Trabajos practicos en grupo 
+8 tps y un tp final integrador en master
