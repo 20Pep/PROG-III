@@ -1,4 +1,4 @@
 Materia programación 3 UTN FRGP
 
-Trabajos practicos en grupo 
-8 tps y un tp final integrador en master
+La materia consistio en trabajos practicos con el mismo grupo durante toda la cursada, tuvimos 8 tps y un ultimo tp integrador 
+
